@@ -1,0 +1,27 @@
+
+body {
+    background-color:antiquewhite;  
+    
+}
+.footer {
+    text-align: center;
+    width: 100%;
+    display: block;
+ }
+
+
+
+ header{
+    width: 100%;
+        text-align: center;
+    }
+ 
+
+    body {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;   
+    }    
+
+        table, th {
+            border: 1px solid black;
+            border-collapse: collapse;
+          }

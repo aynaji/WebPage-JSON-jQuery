@@ -1,0 +1,56 @@
+.grid-container{
+    display: grid;
+    padding: 10px;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr ;
+    
+
+}
+
+.item1{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.item2{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+body {
+    background-color:antiquewhite;  
+    
+}
+
+.grid-container > div {
+     text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+.display {
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
+  }
+
+  .footer {
+    text-align: center;
+    width: 100%;
+    display: block;
+ }
+
+
+ header{
+    width: 100%;
+        text-align: center;
+    }
+ 
+
+    body {
+        font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;   }    
+
+        table, th {
+            border: 1px solid black;
+            border-collapse: collapse;
+          }
